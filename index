@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Пример Web-страницы</title>
+</head>
+<body>
+<h1 align="center">Сайт об автомобилях.</h1>
+<p>Добро пожаловать на наш автомобильный сайт. Здесь Вы найдете много интересных и полезных статей об <strong>автомобилях</strong>. На сайте есть описания многих импортных и отечественных автомобилей.</p>
+</body>
+</html>
